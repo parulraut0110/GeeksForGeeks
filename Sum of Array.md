@@ -3,7 +3,7 @@ class Solution:
 	def _sum(self,arr):
 	    sum = 0
 	    for i in arr:
-   		    sum = sum + i
+   		    sum = sum + i  
         return sum
         
 if __name__ == "__main__":
