@@ -11,3 +11,4 @@ for i in range(3, n):
 print(arr)    
 ```
     
+![image](https://github.com/user-attachments/assets/93f8be2a-e852-4de3-93cf-d6949e413435)
