@@ -1,3 +1,4 @@
+```c
 
 class Solution:
     def findElements(self,arr):
@@ -25,3 +26,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
