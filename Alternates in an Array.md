@@ -1,4 +1,5 @@
 ```python
+
 def printAl(arr):
     maxi = len(arr)
     for i in range(maxi):
